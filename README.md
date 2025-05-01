@@ -2,7 +2,7 @@
 
 This is an official implementation of the TIP 2025 Paper **[Contrastive-Neuron-Pruning-for-Backdoor-Defense](https://ieeexplore.ieee.org/document/10887056)** in Pytorch. 
 
-The code is being organized and is expected to be released in March.
+The code is being organized and is expected to be released soon.
 
 ## Citation
 
