@@ -44,17 +44,17 @@ This demo uses the BadNet backdoor attack on CIFAR-10 as an example. You can fin
 
 ## Citation
 ```
-@article{fan2025chroma,
-  title={Chroma Backdoor: A Stealthy Backdoor Attack Based on High-Frequency Wavelet Injection in the UV Channels},
-  author={Fan, Yukang and Zhang, Kun and Zheng, Bing and Zhou, Yu and Zhou, Jinyang and Pan, Wenting},
-  journal={Symmetry},
-  volume={17},
-  number={7},
-  pages={1014},
+@ARTICLE{10887056,
+  author={Feng, Yu and Ma, Benteng and Liu, Dongnan and Zhang, Yanning and Cai, Weidong and Xia, Yong},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Contrastive Neuron Pruning for Backdoor Defense}, 
   year={2025},
-  publisher={MDPI}
-}
+  volume={34},
+  number={},
+  pages={1234-1245},
+  keywords={Neurons;Training;Data models;Feature extraction;Robustness;Perturbation methods;Face recognition;Electronic mail;Computational modeling;Batch normalization;Backdoor defense;image classification;contrastive learning},
+  doi={10.1109/TIP.2025.3539466}}
 ```
 
 ## Acknowledgements
-This rpoject is based on [ANP](https://github.com/csdongxian/ANP_backdoor/tree/main) and [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox/blob/main/). Thanks for their wonderful works.
+This project is based on [ANP](https://github.com/csdongxian/ANP_backdoor/tree/main) and [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox/blob/main/). Thanks for their wonderful works.
