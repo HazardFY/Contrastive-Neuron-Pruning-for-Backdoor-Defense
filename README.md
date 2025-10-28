@@ -18,7 +18,7 @@ Download the CIFAR-10 dataset and place it in the `./data/cifar` folder.
 
 The data poisoning part (the folder `./core`) in our paper is based on [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox/blob/main/). You can follow the instructions in BackdoorBox to generate backdoored models.
 
-This demo uses the BadNet backdoor attack on CIFAR-10 as an example. You can find the pre-trained backdoored model in `./poisoned_model/poisoned_cifar10_badnet/ckpt_epoch_200_BA0.9071_ASR1.0.pth`.
+This demo uses the BadNet backdoor attack on CIFAR-10 as an example. You can find the pre-trained backdoored model in [google drive](https://drive.google.com/drive/folders/1Lx7qjfoPglWhE3PNUGE1ziH80CS6WaJ3?usp=sharing) `./poisoned_model/poisoned_cifar10_badnet/ckpt_epoch_200_BA0.9071_ASR1.0.pth`.
 
 ## Optimize Mask Value with CNP
 
